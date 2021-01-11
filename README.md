@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/AhRXOue.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/EhDpgSk.gif)
 
 GIF created with [QuickTime Player](https://support.apple.com/en_US/downloads/quicktime).
 
